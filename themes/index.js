@@ -430,13 +430,6 @@ export const themes = {
     border_color: "ffffff",
     bg_color: "000000",
   },
-  darknight: {
-    title_color: "#B567A2",
-    text_color: "FF449F",
-    icon_color: "00EAD3",
-    border_color: "#30363d",
-    bg_color: "#30363d",
-  },
 };
 
 export default themes;
